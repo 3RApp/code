@@ -91,19 +91,3 @@ console.log('products createApi', products);
 console.log("Test auto save without restart");
 /*84*/ const state = store.getState();
 /*85*/ counterC.value = state.counter;
-
-
-//  export const products = createApi({
-//    reducerPath: 'products',
-//    endpoints: (builder) => ({
-//      getProducts: builder.query({
-//        queryFn(arg, queryApi, extraOptions, baseQuery) {
-//          return {
-//             data: [{
-//               // свойства и значения объекта
-//             },]
-//           }
-//         },
-//      }),
-//    }),
-//  });

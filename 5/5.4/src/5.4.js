@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-export const ClickCounter = ({ title }) => {
+export const ExampleComponent = ({ title }) => {
     const [count, setCount] = useState(0);
 
     const handleClick = () => setCount(count => count + 1);

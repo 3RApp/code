@@ -57,9 +57,8 @@ const rootReducer = combineSlices(events, notes);
 const store = configureStore({
   reducer: rootReducer,
 });
-//  Добавляем при помощи inject
+//  Добавляем при помощи injectInto
 picassoMode.injectInto(rootReducer, { reducerPath: 'picassoMode', });
-
 
 const { addEvent } = events.actions;
 const { addNote, deleteNote } = notes.actions;
