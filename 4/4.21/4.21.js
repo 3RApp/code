@@ -1,15 +1,15 @@
 import { createStore, applyMiddleware } from 'redux';
 import {thunk} from 'redux-thunk';
 
-const LOADING = Symbol('Состояние загрузки');
-const FETCH_SUCCESS = Symbol('Успешное получение ресурса с эндпоинта');
-const FETCH_ERROR = Symbol('Произошла ошибка во время получения');
+const LOADING = 'LOADING';
+const FETCH_SUCCESS = 'FETCH_SUCCESS';
+const FETCH_ERROR = 'FETCH_ERROR';
 
 const initialState = {
     loading: false,
     data: [],
     error: null,
-    count: 0,
+    count: 1,
 };
 
 // Экшен криэйтер обычный
@@ -21,7 +21,7 @@ export const fetchData = (postId) => {
     try {
       const response = await fetch(`https://jsonplaceholder.typicode.com/posts/${postId}`);
       const json = await response.json();
-      
+      console.log(json);
       dispatch({ type: FETCH_SUCCESS, payload: { data: json, count: postId } });
     } catch (error) {
       dispatch({ type: FETCH_ERROR, payload: error.message });

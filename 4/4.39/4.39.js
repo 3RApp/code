@@ -20,9 +20,9 @@
 /*20*/                  length: 500,
 /*21*/                  height: 600,
 /*22*/                  weight: 3.1,
-/*23*/                  color: "blue",
-/*24*/                  available: ["red", "green", "blue"],
-/*25*/              },
+/*23*/                  available: ["red", "green", "blue"],
+/*24*/              },
+/*25*/              attributes: { color: 'red' },
 /*26*/              manufacturer: "diam maecenas",
 /*27*/            },]
 /*28*/          }

@@ -3,7 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const cwd = process.cwd();
 
-const {createProductObject, updateLastId} = require('./utils');
+const {createProductObject} = require('./createProductObject');
+const {updateLastId} = require('./updateLastId');
 
 const router = Router()
 

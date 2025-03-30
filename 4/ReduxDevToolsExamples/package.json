@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrently \"webpack -w\" \"node server/index\""
+    "build": "webpack -w",
+    "start": "node server/index"
   },
   "author": "Kuzmin Anton",
   "license": "ISC",
