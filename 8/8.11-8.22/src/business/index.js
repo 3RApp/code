@@ -1,0 +1,1 @@
+export {SheduleItemDetails} from './SheduleItemDetails';

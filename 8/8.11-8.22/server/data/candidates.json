@@ -1,0 +1,62 @@
+[
+    {
+        "fio": "Иванов Иван",
+        "vacancy": "Разработчик",
+        "phoneNumber": "+7 (900) 123-45-67",
+        "candidateID": "a4e3b6f4-4c5e-4e3f-8f2d-740b54e00b51"
+    },
+    {
+        "fio": "Петров Петр",
+        "vacancy": "Дизайнер",
+        "phoneNumber": "+7 (901) 234-56-78",
+        "candidateID": "d6b8e8c5-8f9e-4863-9e4e-3c3f4f5d4a61"
+    },
+    {
+        "fio": "Сидоров Сидор",
+        "vacancy": "Менеджер",
+        "phoneNumber": "+7 (902) 345-67-89",
+        "candidateID": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74"
+    },
+    {
+        "fio": "Кузнецов Алексей",
+        "vacancy": "Аналитик",
+        "phoneNumber": "+7 (903) 456-78-90",
+        "candidateID": "c30f60d8-7b8c-4e7e-8e9e-4c6b6d5f7a12"
+    },
+    {
+        "fio": "Смирнова Анна",
+        "vacancy": "Тестировщик",
+        "phoneNumber": "+7 (904) 567-89-01",
+        "candidateID": "7d2b0b5c-5d72-4e0b-b2f3-8e4b1c3e2c6d"
+    },
+    {
+        "fio": "Попов Сергей",
+        "vacancy": "Маркетолог",
+        "phoneNumber": "+7 (905) 678-90-12",
+        "candidateID": "c3d2f2b7-8b6d-4b7f-8f3f-9c4c8d5e1c3f"
+    },
+    {
+        "fio": "Васильева Мария",
+        "vacancy": "Администратор",
+        "phoneNumber": "+7 (906) 789-01-23",
+        "candidateID": "d6e8a8b5-6e8c-4f7b-9f8e-4c5e6a7d8c1e"
+    },
+    {
+        "fio": "Фёдоров Алексей",
+        "vacancy": "Бухгалтер",
+        "phoneNumber": "+7 (907) 890-12-34",
+        "candidateID": "a1b3e6c8-7e8d-4b5c-8f3c-3e4c1d6f7e5b"
+    },
+    {
+        "fio": "Соловьёв Николай",
+        "vacancy": "Инженер",
+        "phoneNumber": "+7 (908) 901-23-45",
+        "candidateID": "c2d3f5e7-8c6e-4e8e-9d4f-3b1c2d4e5f6a"
+    },
+    {
+        "fio": "Кузьмина Ольга",
+        "vacancy": "HR-менеджер",
+        "phoneNumber": "+7 (909) 012-34-56",
+        "candidateID": "e3f2b4d5-7e6c-4f8e-9d3e-2c5d6c7e8b1f"
+    }
+]

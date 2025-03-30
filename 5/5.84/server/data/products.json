@@ -1,0 +1,23 @@
+{
+    "count": 3,
+    "data": [
+        {
+          "id": "1",
+          "name": "Apple",
+          "category": "Fruit",
+          "calories": 52
+        },
+        {
+          "id": "2",
+          "name": "Broccoli",
+          "category": "Vegetable",
+          "calories": 34
+        },
+        {
+          "id": "3",
+          "name": "Chicken Breast",
+          "category": "Meat",
+          "calories": 165
+        }
+      ]
+}

@@ -1,0 +1,17 @@
+main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+fieldset {
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 12px;
+}
+
+input, select, textarea {
+    margin-left: 12px;
+}

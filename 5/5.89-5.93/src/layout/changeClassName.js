@@ -1,0 +1,1 @@
+export const changeClassName = ({ isActive }) => isActive ? 'active' : 'not-active';

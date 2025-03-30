@@ -1,0 +1,8 @@
+.description {
+    display: flex;
+}
+
+.description-children {
+    display: flex;
+    flex-direction: column;
+}

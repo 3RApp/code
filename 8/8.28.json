@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Математика",
+      "credits": 5,
+      "prerequisites": ["Алгебра", "Геометрия"]
+    },
+    {
+      "name": "Физика",
+      "credits": 4,
+      "laboratory": true
+    },
+    {
+      "name": "Химия",
+      "credits": 3,
+      "labWork": true
+    },
+    {
+      "name": "Информатика",
+      "credits": 4
+    },
+    {
+      "name": "История",
+      "credits": 3
+    }
+  ]
