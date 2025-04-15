@@ -3,7 +3,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 
 module.exports = {
     mode: 'development',
-    entry: './ReduxDevToolsExamples.js',
+    entry: './4.43.js',
     output: {
         filename: './bundle.js',
         path: path.resolve(__dirname, 'server/public'),
