@@ -1,2 +1,2 @@
-export {Main} from './Main';
+export {MainPage} from './MainPage';
 export {ShedulePage} from './ShedulePage';

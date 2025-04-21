@@ -1,6 +1,6 @@
 import {LoginForm} from "./LoginForm";
 
-export const Main = () => {
+export const MainPage = () => {
     return (
         <div className="container">
             <div className="row">
