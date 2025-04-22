@@ -1,0 +1,1 @@
+export const menuTitleList = ["Книги", "Заказ", "Контакты"];
