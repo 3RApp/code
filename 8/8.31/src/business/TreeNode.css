@@ -1,0 +1,43 @@
+.offset0 {
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.offset1 {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.offset2 {
+    margin-left: 15px;
+    padding: 10px;
+}
+
+.value0, .value1 {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.value2 {
+    color: #333333;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.category0, .category1 {
+    color: grey;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 15px;
+}
+
+.category2 {
+    color: grey;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 15px;
+}
