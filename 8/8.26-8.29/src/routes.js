@@ -1,5 +1,5 @@
 import { createBrowserRouter, Outlet } from 'react-router-dom';
-import { SubcategoryPage } from './page';
+import { SubcategoryPage } from './pages';
 
 export const routes = createBrowserRouter([{
     path: '/',

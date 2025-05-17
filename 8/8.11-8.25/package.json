@@ -1,5 +1,5 @@
 {
-  "name": "8.11-8.22",
+  "name": "8.11-8.25",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:4000/",

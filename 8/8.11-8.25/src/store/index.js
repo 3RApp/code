@@ -4,7 +4,7 @@ import sheduleReducer from './features/shedule';
 
 export const store = configureStore({
   reducer: {
-    auth: loginReducer,
+    isAuthenticated: loginReducer,
     shedulePage: sheduleReducer,
   },
 });

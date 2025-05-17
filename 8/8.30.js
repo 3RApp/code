@@ -1,87 +1,39 @@
 import React, { useState, useEffect } from 'react';
-import { Table, Input, Button } from 'antd';
-import useWebSocket from 'react-use-websocket';
+import axios from 'axios';
 
-const columns = [
-  {
-    title: 'Город',
-    dataIndex: 'city',
-    sorter: (a, b) => a.city.localeCompare(b.city),
-    filterDropdown: ({ setSelectedKeys, confirm, clearFilters }) => (
-      <div>
-        <Input onChange={e => setSelectedKeys(e.target.value)} />
-        <Button onClick={() => confirm()} typeprimary>
-          Применить
-        </Button>
-        <Button onClick={() => clearFilters()}>
-          Сбросить
-        </Button>
-      </div>
-    ),
-    filterIcon: () => <SearchOutlined />,
-    onFilter: (value, record) => record.city.includesvalue,
-  },
-  {
-    title: 'Компания',
-    dataIndex: 'company',
-    sorter: (a, b) => a.company.localeCompare(b.company),
-    filterDropdown: ({ setSelectedKeys, confirm, clearFilters }) => (
-      <div>
-        <Input onChange={e => setSelectedKeys(e.target.value)} />
-        <Button onClick={() => confirm()} type="primary">
-          Применить
-        </Button>
-        <Button onClick={() => clearFilters()}>
-          Сбросить
-        </Button>
-      </div>
-    ),
-filterIcon: () => <SearchOutlined />,
-    onFilter: (value, record) => record.company.includes(value),
-  },
-  {
-    title: 'Численность персонала',
-    dataIndex: 'staffCount',
-    sorter: (a, b) => a.staff - b.staff,
-  },
-  {
-    title: 'С какого года клиент',
-    dataIndex: 'clientSince',
-    sorter: (a, b) => a.clientSince - b.clientSince,
-  },
-  {
-    title: 'Число серверов',
-    dataIndex: 'serverCount',
-    sorter: (a, b) => a.serverCount - b.serverCount,
-  },
-];
+const CustomHook = () => {
+  const [data, setData] = useState({});
 
-const WebsocketTable = () => {
-  const [data, setData] = useState([]);
-  // Оставлено как есть
-  const { sendMessage, lastMessage } = useWebSocket('://:8080', {
-    onOpen: () => console.log('Connected'),
-    onMessage: (message) => {
-      setData([...data, JSON.parse(message.data)]);
-    },
-    onError: (error) => console.log('Error:', error),
-});
-
-useEffect(() => {
-    if (lastMessage !== null) {
-      setData([...data, JSON.parse(lastMessage.data)]);
+  // Кастомный хук для запроса данных
+  const fetchData = async () => {
+    try {
+      const response = await axios.get('https://example.com/api');
+      setData(response.data);
+    } catch (error) {
+      console.error('Error fetching data:', error);
     }
-  }, [lastMessage]);
+  };
 
-  return (
-    <Table
-      columns={columns}
-      dataSource={data}
-      {/** Оставлено как есть. Однако вы можете настроить объект пагинации прочитав документацию https://ant.design/components/table#table-demo-pagination */}
-      pagination={}
-      rowKey="id"
-    />
-  );
+  // Вызываем хук при первом рендере
+  useEffect(() => {
+    fetchData();
+  }, []);
+
+  return { data };
 };
 
-export default WebsocketTable;
+export default function App() {
+  const { data } = CustomHook();
+
+  if (!data) {
+    return <div>Загрузка...</div>;
+  }
+
+  return (
+    <div>
+      {/* Используем данные из состояния */}
+      <h1>{data.title}</h1>
+      <p>{data.description}</p>
+    </div>
+  );
+}

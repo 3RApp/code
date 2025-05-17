@@ -12,7 +12,10 @@ const headers = {
     'Access-Control-Allow-Credentials': '*',
 };
 
-router.get('/shedule/', function(req, res){
+router.get('/shedule/:period', function(req, res){
+    const {period} = req.params;
+    console.log('Параметр period', period);
+    // для демонстрации параметр period игнорируется
     fs.readFile(path.join(cwd, "/server/data/shedule.json"), "utf-8", (err, dataString) => {
         if (err){
             console.error(err.message);
