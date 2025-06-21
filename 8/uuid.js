@@ -1,4 +1,4 @@
-// сгенирурий функцию для генерации UUID
+// сгенерурий функцию для генерации UUID
 
 function uuid() {
     var d = new Date().getTime();
