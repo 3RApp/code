@@ -1,5 +1,4 @@
 import { createBrowserRouter, Outlet } from 'react-router-dom';
-import { SubcategoryPage } from './pages';
 
 export const routes = createBrowserRouter([{
     path: '/',
@@ -16,16 +15,16 @@ export const routes = createBrowserRouter([{
         }, {
             path: 'search',
             element: <div>SearchResultPage</div>,
-        }],
-    }, {
-        path: '/catalog/:category',
-        element: <div>CategoryPage</div>,
-    }, {
-        path: '/catalog/:category/:subcategory',
-        element: <SubcategoryPage />,
-    }, {
-        path: '/catalog/:category/:subcategory/:productId',
-        element: <div>ProductPage</div>,
+        }, {
+            path: '/catalog/:category',
+            element: <div>CategoryPage</div>,
+        }, {
+            path: '/catalog/:category/:subcategory',
+            element: <div>SubcategoryPage</div>,
+        }, {
+            path: '/catalog/:category/:subcategory/:productId',
+            element: <div>ProductPage</div>,
+        },],
     }, {
         path: '/basket',
         element: <div>BasketPage</div>,

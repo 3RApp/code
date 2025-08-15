@@ -10,7 +10,6 @@ export const productsAPI = createApi({
         query: (params, second) => {
             const {category, subcategory} = params;
 
-            console.log(category, subcategory, params);
             return subcategory === 'def' ? 'users' : 'posts';
         },
     }),

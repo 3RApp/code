@@ -8,7 +8,7 @@ const {createProductObject, updateLastId} = require('./utils');
 const router = Router()
 
 router.get('/', function (req, res) {
-    console.log('YES')
+
     fs.readFile(__dirname + '/index.html', {encoding: "utf-8"}, (err, html) => {
         if (err) {
             console.error(err.message);
