@@ -1,0 +1,14 @@
+.button {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border-radius: 0;
+    background-color: white;
+    outline: none;
+    border: 1px solid black;
+}
+
+.button-size {
+    width: 120px;
+    height: 30px;
+}

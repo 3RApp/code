@@ -1,0 +1,13 @@
+.product-search-form {
+    display: flex;
+    width: 100%;
+}
+
+.search-field {
+    flex-grow: 8;
+    outline: none;
+    border-radius: 0px;
+    border: 1px solid black;
+    font-size: 18px;
+    height: 40px;
+}

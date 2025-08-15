@@ -1,0 +1,1 @@
+export { ProductCardRect } from "./ProductCardRect"

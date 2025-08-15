@@ -1,0 +1,12 @@
+.price {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    font-family: sans-serif;
+    gap: 12px;
+}
+
+.currency-code {
+    font-size: 12px;
+    text-transform: uppercase;
+}

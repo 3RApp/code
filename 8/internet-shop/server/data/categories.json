@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+    "title": "Бытовая техника",
+    "urlUniqueKey": "bytovaya-tehnika"
+  },
+  {
+    "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+    "title": "Одежда",
+    "urlUniqueKey": "odezhda"
+  },
+  {
+    "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+    "title": "Книги",
+    "urlUniqueKey": "knigi"
+  },
+  {
+    "uid": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+    "title": "Электроника",
+    "urlUniqueKey": "elektronika"
+  },
+  {
+    "uid": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+    "title": "Сантехника",
+    "urlUniqueKey": "santekhnik"
+  },
+  {
+    "uid": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+    "title": "Инструменты",
+    "urlUniqueKey": "instrumenty"
+  },
+  {
+    "uid": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+    "title": "Автотовары",
+    "urlUniqueKey": "avtotovary"
+  },
+  {
+    "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+    "title": "Дом и сад",
+    "urlUniqueKey": "dom-i-sad"
+  },
+  {
+    "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+    "title": "Бытовая химия",
+    "urlUniqueKey": "bytovaya-himiya"
+  }
+]

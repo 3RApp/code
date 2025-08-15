@@ -1,0 +1,40 @@
+.presentation {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 352px;
+}
+
+.big-image {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    border: 1px solid black;
+}
+
+.small-image-container {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.small-image-item {
+    font-size: 0;
+    padding: 3px;
+    border: 3px solid transparent;
+    width: 83px;
+    height: 91px;
+}
+
+.current {
+    font-size: 0;
+    padding: 3px;
+    border: 3px solid grey;
+}

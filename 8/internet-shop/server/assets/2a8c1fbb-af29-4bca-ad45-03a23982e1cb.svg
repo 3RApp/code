@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22mm"
+   height="24mm"
+   viewBox="0 0 22 24"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="2a8c1fbb-af29-4bca-ad45-03a23982e1cb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="39.332815"
+     inkscape:cy="42.868349"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:label="Light Eraser"
+       inkscape:auto-region="false"
+       inkscape:menu="Fill and Transparency"
+       inkscape:menu-tooltip="Does not filter but adds a filter region"
+       style="color-interpolation-filters:sRGB;"
+       id="filter9">
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix9"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11" />
+      <feColorMatrix
+         id="feColorMatrix12"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -21.25 -71.54 -7.21 50 0 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite12"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix15" />
+      <feColorMatrix
+         id="feColorMatrix16"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -21.25 -71.54 -7.21 50 0 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite16"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix19" />
+      <feColorMatrix
+         id="feColorMatrix20"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -21.25 -71.54 -7.21 50 0 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite20"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="composite" />
+    </filter>
+    <filter
+       inkscape:label="Light Eraser"
+       inkscape:auto-region="false"
+       inkscape:menu="Fill and Transparency"
+       inkscape:menu-tooltip="Does not filter but adds a filter region"
+       style="color-interpolation-filters:sRGB;"
+       id="filter10">
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix10"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix13" />
+      <feColorMatrix
+         id="feColorMatrix14"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -21.25 -71.54 -7.21 50 0 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite14"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix17" />
+      <feColorMatrix
+         id="feColorMatrix18"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -21.25 -71.54 -7.21 50 0 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite18"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix21" />
+      <feColorMatrix
+         id="feColorMatrix22"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -21.25 -71.54 -7.21 50 0 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite22"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="composite" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:square;stroke-miterlimit:3.7;stroke-dasharray:none;filter:url(#filter10)"
+       id="rect149"
+       width="21.785297"
+       height="23.779202"
+       x="-21.905373"
+       y="0.12269295"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.403846;stroke:none;stroke-width:0.234777;stroke-linecap:square;stroke-miterlimit:5.1"
+       id="rect1"
+       width="14.377234"
+       height="14.739144"
+       x="0.23457731"
+       y="-7.3831844"
+       ry="0"
+       transform="rotate(33.959147)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.403846;stroke:none;stroke-width:0.234777;stroke-linecap:square;stroke-miterlimit:5.1"
+       id="rect2"
+       width="14.377234"
+       height="14.739144"
+       x="4.4178944"
+       y="-9.2646017"
+       ry="0"
+       transform="rotate(33.959147)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.403846;stroke:none;stroke-width:0.234777;stroke-linecap:square;stroke-miterlimit:5.1"
+       id="rect3"
+       width="14.377234"
+       height="14.739144"
+       x="8.8069935"
+       y="-12.220535"
+       ry="0"
+       transform="rotate(33.959147)" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:0.15;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#cccccc;stroke-width:0.264583"
+       x="11.142066"
+       y="19.670494"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0.15;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cccccc;stroke-width:0.264583"
+         x="11.142066"
+         y="19.670494">РАЗМЕР </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0.15;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cccccc;stroke-width:0.264583"
+         x="11.142066"
+         y="22.938572"
+         id="tspan4">SMALL</tspan></text>
+    <path
+       style="font-size:14.1111px;line-height:1.05;stroke-width:0.264583"
+       d="m 13.5598,9.3252494 q 0.330729,0.2962779 0.544325,0.7441396 0.213595,0.447862 0.213595,1.157552 0,0.702799 -0.254936,1.288464 -0.254937,0.585666 -0.71658,1.019748 -0.516764,0.482313 -1.219563,0.716579 -0.695908,0.227376 -1.529621,0.227376 -0.8543828,0 -1.6812051,-0.206705 -0.8268223,-0.199816 -1.3573666,-0.440972 v -1.440049 h 0.1033528 q 0.5856658,0.38585 1.3780371,0.640787 0.7923714,0.254937 1.5296208,0.254937 0.434082,0 0.923285,-0.144694 0.489204,-0.144694 0.792372,-0.427191 0.316948,-0.303168 0.468532,-0.668348 0.158475,-0.36518 0.158475,-0.923285 0,-0.551215 -0.179145,-0.909505 Q 12.560723,9.8489035 12.250665,9.6421979 11.940606,9.4286021 11.499635,9.3528101 11.058663,9.2701279 10.548789,9.2701279 H 9.9286722 V 8.1263571 h 0.4823128 q 1.047308,0 1.667425,-0.4340817 0.627007,-0.4409719 0.627007,-1.2815746 0,-0.37207 -0.158474,-0.6476774 -0.158475,-0.2824976 -0.440972,-0.4616425 -0.296278,-0.1791448 -0.633897,-0.2480466 -0.337619,-0.068902 -0.764811,-0.068902 -0.654567,0 -1.3918173,0.2342663 Q 8.5781958,5.452965 7.9236282,5.8801565 H 7.8547263 V 4.4401077 Q 8.3439295,4.1989512 9.1569714,3.9991359 9.9769035,3.7924303 10.741714,3.7924303 q 0.75103,0 1.322916,0.1378037 0.571885,0.1378037 1.033528,0.4409719 0.496093,0.3307289 0.75103,0.7992615 0.254937,0.4685326 0.254937,1.0955395 0,0.8543831 -0.606337,1.4951703 -0.599446,0.6338971 -1.419378,0.7992616 v 0.096463 q 0.330729,0.055121 0.757921,0.2342663 0.427191,0.1722546 0.723469,0.4340817 z"
+       id="text51"
+       aria-label="3" />
+  </g>
+</svg>

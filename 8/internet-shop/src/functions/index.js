@@ -1,0 +1,1 @@
+export { russianNounEndingDependNumber } from "./russianNounEndingDependNumber";

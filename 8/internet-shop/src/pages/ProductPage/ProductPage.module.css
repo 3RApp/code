@@ -1,0 +1,26 @@
+.product-page {
+    display: flex;
+    gap: 32px;
+}
+
+.product-page__images {
+    position: relative;
+    margin-bottom: 32px;
+}
+
+.product-page__new-mark {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.product-page__text {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.product-page__header-price, .product-page__buttons {
+    display: flex;
+    justify-content: space-between;
+}

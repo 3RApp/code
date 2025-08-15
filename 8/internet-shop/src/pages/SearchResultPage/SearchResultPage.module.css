@@ -1,0 +1,16 @@
+.search-result-page {
+    display: flex;
+    gap: 12px;
+}
+
+.search-result-page__toolbar {
+    display: flex;
+    gap: 12px;
+}
+
+.search-result-page__view-mode {
+    display: flex;
+    align-items: center;
+    border-left: 1px solid black;
+    padding-left: 12px;
+}

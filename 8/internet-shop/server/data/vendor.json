@@ -1,0 +1,1662 @@
+{
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "title": "Samsung",
+        "for": "Холодильники",
+        "urlUniqueKey": "samsung",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "title": "LG",
+        "for": "Холодильники",
+        "urlUniqueKey": "lg",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedcba": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "title": "Bosch",
+        "for": "Холодильники",
+        "urlUniqueKey": "bosch",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184e341": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "title": "Panasonic",
+        "for": "Микроволновые печи",
+        "urlUniqueKey": "panasonic",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "title": "Sharp",
+        "for": "Микроволновые печи",
+        "urlUniqueKey": "sharp",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-238742278dca": {
+        "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+        "title": "Electrolux",
+        "for": "Микроволновые печи",
+        "urlUniqueKey": "electrolux",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e6016802cfe": {
+        "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+        "title": "Hotpoint-Ariston",
+        "for": "Электроплиты",
+        "urlUniqueKey": "hotpoint-ariston",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "1c3b4d5e-6f7a-8b9c-dae1-2f34567890bc": {
+        "uid": "1c3b4d5e-6f7a-8b9c-dae1-2f34567890bc",
+        "title": "Zanussi",
+        "for": "Электроплиты",
+        "urlUniqueKey": "zanussi",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "5a7b9cde-1f3a-4b6c-8d9e-0123456789ab": {
+        "uid": "5a7b9cde-1f3a-4b6c-8d9e-0123456789ab",
+        "title": "Hansa",
+        "for": "Электроплиты",
+        "urlUniqueKey": "hansa",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e048fa": {
+        "uid": "036e4666-b815-4814-abdd-641819e048fa",
+        "title": "Siemens",
+        "for": "Духовые шкафы",
+        "urlUniqueKey": "siemens",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a4312": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a4312",
+        "title": "Neff",
+        "for": "Духовые шкафы",
+        "urlUniqueKey": "neff",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a315917": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a315917",
+        "title": "AEG",
+        "for": "Духовые шкафы",
+        "urlUniqueKey": "aeg",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "8d7263ea-54cf-19bd-3ace-fedcba987654": {
+        "uid": "8d7263ea-54cf-19bd-3ace-fedcba987654",
+        "title": "Philips",
+        "for": "Блендеры",
+        "urlUniqueKey": "philips",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "9e8374fb-65df-20ce-49ab-cdef01234567": {
+        "uid": "9e8374fb-65df-20ce-49ab-cdef01234567",
+        "title": "Braun",
+        "for": "Блендеры",
+        "urlUniqueKey": "braun",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "0f987654-edcb-3210-fede-cbad98765432": {
+        "uid": "0f987654-edcb-3210-fede-cbad98765432",
+        "title": "Kenwood",
+        "for": "Миксеры",
+        "urlUniqueKey": "kenwood",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "10a98765-4321-cedb-afe0-def123456789": {
+        "uid": "10a98765-4321-cedb-afe0-def123456789",
+        "title": "Moulinex",
+        "for": "Миксеры",
+        "urlUniqueKey": "moulinex",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "21b09876-5432-10ed-cafe-badc0ffe1234": {
+        "uid": "21b09876-5432-10ed-cafe-badc0ffe1234",
+        "title": "De'Longhi",
+        "for": "Кофемашины",
+        "urlUniqueKey": "delonghi",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "e0444241-7c73-4752-84b6-1e7329980163"
+        ]
+    },
+    "3210fedc-bade-0123-4567-890abcdef012": {
+        "uid": "3210fedc-bade-0123-4567-890abcdef012",
+        "title": "Saeco",
+        "for": "Кофемашины",
+        "urlUniqueKey": "saeco",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "e0444241-7c73-4752-84b6-1e7329980163"
+        ]
+    },
+    "43210fed-cba9-8765-4321-0123456789ab": {
+        "uid": "43210fed-cba9-8765-4321-0123456789ab",
+        "title": "Krups",
+        "for": "Кофемашины",
+        "urlUniqueKey": "krups",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "e0444241-7c73-4752-84b6-1e7329980163"
+        ]
+    },
+    "543210fe-dcba-9876-5432-10fedcba9876": {
+        "uid": "543210fe-dcba-9876-5432-10fedcba9876",
+        "title": "Vitek",
+        "for": "Комбайны",
+        "urlUniqueKey": "vitek",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "254146aa-1593-48a6-ac57-0a7a5e1306b1"
+        ]
+    },
+    "6543210f-edcb-a987-6543-210fedcba987": {
+        "uid": "6543210f-edcb-a987-6543-210fedcba987",
+        "title": "Scarlett",
+        "for": "Комбайны",
+        "urlUniqueKey": "scarlett",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "254146aa-1593-48a6-ac57-0a7a5e1306b1"
+        ]
+    },
+    "76543210-fedc-ba98-7654-3210fedcba98": {
+        "uid": "76543210-fedc-ba98-7654-3210fedcba98",
+        "title": "Bork",
+        "for": "Комбайны",
+        "urlUniqueKey": "bork",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "254146aa-1593-48a6-ac57-0a7a5e1306b1"
+        ]
+    },
+    "87654321-0fed-cba9-8765-43210fedcba9": {
+        "uid": "87654321-0fed-cba9-8765-43210fedcba9",
+        "title": "Whirlpool",
+        "for": "Посудомоечные машины",
+        "urlUniqueKey": "whirlpool",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "541101cd-3e77-4a79-adbe-1448792a64df"
+        ]
+    },
+    "98765432-10fe-dcba-9876-543210fedcba": {
+        "uid": "98765432-10fe-dcba-9876-543210fedcba",
+        "title": "Ardo",
+        "for": "Посудомоечные машины",
+        "urlUniqueKey": "ardo",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "541101cd-3e77-4a79-adbe-1448792a64df"
+        ]
+    },
+    "09876543-210f-edcb-a987-6543210fedcb": {
+        "uid": "09876543-210f-edcb-a987-6543210fedcb",
+        "title": "Candy",
+        "for": "Посудомоечные машины",
+        "urlUniqueKey": "candy",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "541101cd-3e77-4a79-adbe-1448792a64df"
+        ]
+    },
+    "10987654-3210-fedc-ba98-76543210fedc": {
+        "uid": "10987654-3210-fedc-ba98-76543210fedc",
+        "title": "Kitfort",
+        "for": "Мясорубки",
+        "urlUniqueKey": "kitfort",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "92646683-6b61-4093-b292-113381768b64"
+        ]
+    },
+    "21098765-4321-0fed-cba9-876543210fed": {
+        "uid": "21098765-4321-0fed-cba9-876543210fed",
+        "title": "Supra",
+        "for": "Мясорубки",
+        "urlUniqueKey": "supra",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "92646683-6b61-4093-b292-113381768b64"
+        ]
+    },
+    "32109876-5432-10fe-dcba-9876543210fe": {
+        "uid": "32109876-5432-10fe-dcba-9876543210fe",
+        "title": "Midea",
+        "for": "Мясорубки",
+        "urlUniqueKey": "midea",
+        "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+        "subcategoryListId": [
+            "92646683-6b61-4093-b292-113381768b64"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e133": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e133",
+        "title": "Adidas",
+        "for": "Брюки",
+        "urlUniqueKey": "adidas",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7a2b3c4d-5e6f-7g8h-9i0j-klmnopqrstuv"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e33": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e33",
+        "title": "Nike",
+        "for": "Брюки",
+        "urlUniqueKey": "nike",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7a2b3c4d-5e6f-7g8h-9i0j-klmnopqrstuv"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc33": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc33",
+        "title": "Puma",
+        "for": "Брюки",
+        "urlUniqueKey": "puma",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7a2b3c4d-5e6f-7g8h-9i0j-klmnopqrstuv"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184e333": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184e333",
+        "title": "Levi's",
+        "for": "Футболки с мерчем",
+        "urlUniqueKey": "levis",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "8b9c0d1e-2f3g-4h5i-6j7k-lmnopqrstuvw"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e133": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e133",
+        "title": "Gucci",
+        "for": "Футболки с мерчем",
+        "urlUniqueKey": "gucci",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "8b9c0d1e-2f3g-4h5i-6j7k-lmnopqrstuvw"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-238742278d33": {
+        "uid": "30f9d1cb-15ae-45db-beac-238742278d33",
+        "title": "Versace",
+        "for": "Футболки с мерчем",
+        "urlUniqueKey": "versace",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "8b9c0d1e-2f3g-4h5i-6j7k-lmnopqrstuvw"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e6016802c33": {
+        "uid": "489272ab-f6dc-4142-98ff-6e6016802c33",
+        "title": "Columbia",
+        "for": "Ветровки",
+        "urlUniqueKey": "columbia",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "9c0d1e2f-3g4h-5i6j-7k8l-mnopqrstuvwx"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a1843333": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a1843333",
+        "title": "North Face",
+        "for": "Ветровки",
+        "urlUniqueKey": "north-face",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "9c0d1e2f-3g4h-5i6j-7k8l-mnopqrstuvwx"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffed333": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffed333",
+        "title": "Patagonia",
+        "for": "Ветровки",
+        "urlUniqueKey": "patagonia",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "9c0d1e2f-3g4h-5i6j-7k8l-mnopqrstuvwx"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e04333": {
+        "uid": "036e4666-b815-4814-abdd-641819e04333",
+        "title": "Louis Vuitton",
+        "for": "Блузы",
+        "urlUniqueKey": "louis-vuitton",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "0d1e2f3g-4h5i-6j7k-8l9m-nopqrstuvwxy"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a433": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a4333",
+        "title": "Chanel",
+        "for": "Блузы",
+        "urlUniqueKey": "chanel",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "0d1e2f3g-4h5i-6j7k-8l9m-nopqrstuvwxy"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a315933": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a315933",
+        "title": "Dior",
+        "for": "Блузы",
+        "urlUniqueKey": "dior",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "0d1e2f3g-4h5i-6j7k-8l9m-nopqrstuvwxy"
+        ]
+    },
+    "8d7263ea-54cf-19bd-3ace-fedcba987633": {
+        "uid": "8d7263ea-54cf-19bd-3ace-fedcba987633",
+        "title": "Prada",
+        "for": "Мини-юбка",
+        "urlUniqueKey": "prada",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "1e2f3g4h-5i6j-7k8l-9m0n-opqrstuvwyz"
+        ]
+    },
+    "9e8374fb-65df-20ce-49ab-cdef01234533": {
+        "uid": "9e8374fb-65df-20ce-49ab-cdef01234533",
+        "title": "Fendi",
+        "for": "Мини-юбка",
+        "urlUniqueKey": "fendi",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "1e2f3g4h-5i6j-7k8l-9m0n-opqrstuvwyz"
+        ]
+    },
+    "0f987654-edcb-3210-fede-cbad98765433": {
+        "uid": "0f987654-edcb-3210-fede-cbad98765433",
+        "title": "Balenciaga",
+        "for": "Мини-юбка",
+        "urlUniqueKey": "balenciaga",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "1e2f3g4h-5i6j-7k8l-9m0n-opqrstuvwyz"
+        ]
+    },
+    "10a98765-4321-cedb-afe0-def123456733": {
+        "uid": "10a98765-4321-cedb-afe0-def123456733",
+        "title": "Converse",
+        "for": "Ботинки",
+        "urlUniqueKey": "converse",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "2f3g4h5i-6j7k-8l9m-0n1o-pqrstuvwzyx"
+        ]
+    },
+    "21b09876-5432-10ed-cafe-badc0ffe1233": {
+        "uid": "21b09876-5432-10ed-cafe-badc0ffe1233",
+        "title": "Dr. Martens",
+        "for": "Ботинки",
+        "urlUniqueKey": "dr-martens",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "2f3g4h5i-6j7k-8l9m-0n1o-pqrstuvwzyx"
+        ]
+    },
+    "3210fedc-bade-0123-4567-890abcdef033": {
+        "uid": "3210fedc-bade-0123-4567-890abcdef033",
+        "title": "Timberland",
+        "for": "Ботинки",
+        "urlUniqueKey": "timberland",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "2f3g4h5i-6j7k-8l9m-0n1o-pqrstuvwzyx"
+        ]
+    },
+    "43210fed-cba9-8765-4321-012345678933": {
+        "uid": "43210fed-cba9-8765-4321-012345678933",
+        "title": "Salvatore Ferragamo",
+        "for": "Туфли",
+        "urlUniqueKey": "salvatore-ferragamo",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "3g4h5i6j-7k8l-9m0n-1o2p-qrstuvwxyzxw"
+        ]
+    },
+    "543210fe-dcba-9876-5432-10fedcba9833": {
+        "uid": "543210fe-dcba-9876-5432-10fedcba9833",
+        "title": "Christian Louboutin",
+        "for": "Туфли",
+        "urlUniqueKey": "christian-louboutin",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "3g4h5i6j-7k8l-9m0n-1o2p-qrstuvwxyzxw"
+        ]
+    },
+    "6543210f-edcb-a987-6543-210fedcba933": {
+        "uid": "6543210f-edcb-a987-6543-210fedcba933",
+        "title": "Jimmy Choo",
+        "for": "Туфли",
+        "urlUniqueKey": "jimmy-choo",
+        "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "3g4h5i6j-7k8l-9m0n-1o2p-qrstuvwxyzxw"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e144": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e144",
+        "title": "Азбука",
+        "for": "Фэнтези",
+        "urlUniqueKey": "azbuka",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e44": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e44",
+        "title": "Альфа-Книга",
+        "for": "Фэнтези",
+        "urlUniqueKey": "alfa-kniga",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc44": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc44",
+        "title": "Росмэн",
+        "for": "Фэнтези",
+        "urlUniqueKey": "rosmen",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184e344": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184e344",
+        "title": "ЭКСМО",
+        "for": "Научная фантастика",
+        "urlUniqueKey": "eksmo",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e144": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e144",
+        "title": "Амфора",
+        "for": "Научная фантастика",
+        "urlUniqueKey": "amfora",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-238742278d44": {
+        "uid": "30f9d1cb-15ae-45db-beac-238742278d44",
+        "title": "АСТ",
+        "for": "Научная фантастика",
+        "urlUniqueKey": "ast",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e6016802c44": {
+        "uid": "489272ab-f6dc-4142-98ff-6e6016802c44",
+        "title": "Самокат",
+        "for": "Приключения",
+        "urlUniqueKey": "samokat",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184e345": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184e345",
+        "title": "КомпасГид",
+        "for": "Приключения",
+        "urlUniqueKey": "kompassgid",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc45": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc45",
+        "title": "МИФ",
+        "for": "Приключения",
+        "urlUniqueKey": "mif",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e04845": {
+        "uid": "036e4666-b815-4814-abdd-641819e04845",
+        "title": "Просвещение",
+        "for": "Исторический роман",
+        "urlUniqueKey": "prosveshchenie",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a4345": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a4345",
+        "title": "Ленинград",
+        "for": "Исторический роман",
+        "urlUniqueKey": "leningrad",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a315945": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a315945",
+        "title": "Питер",
+        "for": "Исторический роман",
+        "urlUniqueKey": "piter",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "8d7263ea-54cf-19bd-3ace-fedcba987644": {
+        "uid": "8d7263ea-54cf-19bd-3ace-fedcba987644",
+        "title": "Манн, Иванов и Фербер",
+        "for": "IT",
+        "urlUniqueKey": "mann-ivanov-i-ferber",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "9e8374fb-65df-20ce-49ab-cdef01234544": {
+        "uid": "9e8374fb-65df-20ce-49ab-cdef01234544",
+        "title": "Питер-Пресс",
+        "for": "IT",
+        "urlUniqueKey": "piter-press",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "0f987654-edcb-3210-fede-cbad98765444": {
+        "uid": "0f987654-edcb-3210-fede-cbad98765444",
+        "title": "Эксмо",
+        "for": "IT",
+        "urlUniqueKey": "eksmo-it",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "10a98765-4321-cedb-afe0-def123456744": {
+        "uid": "10a98765-4321-cedb-afe0-def123456744",
+        "title": "Эксмо",
+        "for": "Путешествия",
+        "urlUniqueKey": "eksmo-travel",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "21b09876-5432-10ed-cafe-badc0ffe1244": {
+        "uid": "21b09876-5432-10ed-cafe-badc0ffe1244",
+        "title": "КоЛибри",
+        "for": "Путешествия",
+        "urlUniqueKey": "kolibri",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "3210fedc-bade-0123-4567-890abcdef044": {
+        "uid": "3210fedc-bade-0123-4567-890abcdef044",
+        "title": "Редакция Елены Шубиной",
+        "for": "Путешествия",
+        "urlUniqueKey": "redaktsiya-eleny-shubinoj",
+        "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6167": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6167",
+        "title": "Apple",
+        "for": "Смартфоны",
+        "urlUniqueKey": "apple",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c167": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c167",
+        "title": "Samsung",
+        "for": "Смартфоны",
+        "urlUniqueKey": "samsung",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffe168": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffe168",
+        "title": "Xiaomi",
+        "for": "Смартфоны",
+        "urlUniqueKey": "xiaomi",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184168": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184168",
+        "title": "Anker",
+        "for": "Зарядные устройства",
+        "urlUniqueKey": "anker",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6167": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6167",
+        "title": "Baseus",
+        "for": "Зарядные устройства",
+        "urlUniqueKey": "baseus",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-23874227167": {
+        "uid": "30f9d1cb-15ae-45db-beac-23874227167",
+        "title": "Belkin",
+        "for": "Зарядные устройства",
+        "urlUniqueKey": "belkin",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e601680167": {
+        "uid": "489272ab-f6dc-4142-98ff-6e601680167",
+        "title": "Sony",
+        "for": "Телевизоры",
+        "urlUniqueKey": "sony",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184167": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184167",
+        "title": "Philips",
+        "for": "Телевизоры",
+        "urlUniqueKey": "philips",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffe167": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffe167",
+        "title": "LG",
+        "for": "Телевизоры",
+        "urlUniqueKey": "lg",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e0167": {
+        "uid": "036e4666-b815-4814-abdd-641819e0167",
+        "title": "Canon",
+        "for": "Цифровые фотоаппараты",
+        "urlUniqueKey": "canon",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a167": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a167",
+        "title": "Nikon",
+        "for": "Цифровые фотоаппараты",
+        "urlUniqueKey": "nikon",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a31167": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a31167",
+        "title": "Sony",
+        "for": "Цифровые фотоаппараты",
+        "urlUniqueKey": "sony-camera",
+        "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6169": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6169",
+        "title": "Keramag",
+        "for": "Унитазы",
+        "urlUniqueKey": "keramag",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c169": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c169",
+        "title": "Roca",
+        "for": "Унитазы",
+        "urlUniqueKey": "roca",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc167": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc169",
+        "title": "Grohe",
+        "for": "Унитазы",
+        "urlUniqueKey": "grohe",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184163": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184169",
+        "title": "Jacob Delafon",
+        "for": "Ванны",
+        "urlUniqueKey": "jacob-delafon",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6169": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6169",
+        "title": "Laufen",
+        "for": "Ванны",
+        "urlUniqueKey": "lauf-en",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-23874227169": {
+        "uid": "30f9d1cb-15ae-45db-beac-23874227169",
+        "title": "IDDIS",
+        "for": "Ванны",
+        "urlUniqueKey": "iddis",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e601680169": {
+        "uid": "489272ab-f6dc-4142-98ff-6e601680169",
+        "title": "Ceramica Cersanit",
+        "for": "Раковины",
+        "urlUniqueKey": "cersanit",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184169": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184169",
+        "title": "Kolo",
+        "for": "Раковины",
+        "urlUniqueKey": "kolo",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc169": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc169",
+        "title": "Duravit",
+        "for": "Раковины",
+        "urlUniqueKey": "duravit",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e0169": {
+        "uid": "036e4666-b815-4814-abdd-641819e0169",
+        "title": "Oras",
+        "for": "Смесители",
+        "urlUniqueKey": "oras",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a169": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a169",
+        "title": "Hansgrohe",
+        "for": "Смесители",
+        "urlUniqueKey": "hansgrohe",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a31169": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a31169",
+        "title": "Franke",
+        "for": "Смесители",
+        "urlUniqueKey": "franke",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "8d7263ea-54cf-19bd-3ace-fedcba98169": {
+        "uid": "8d7263ea-54cf-19bd-3ace-fedcba98169",
+        "title": "Harvia",
+        "for": "Сауны",
+        "urlUniqueKey": "harvia",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "9e8374fb-65df-20ce-49ab-cdef0123169": {
+        "uid": "9e8374fb-65df-20ce-49ab-cdef0123169",
+        "title": "Helo",
+        "for": "Сауны",
+        "urlUniqueKey": "helo",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "0f987654-edcb-3210-fede-cbad9876169": {
+        "uid": "0f987654-edcb-3210-fede-cbad9876169",
+        "title": "Tylo",
+        "for": "Сауны",
+        "urlUniqueKey": "tylo",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "10a98765-4321-cedb-afe0-def12345169": {
+        "uid": "10a98765-4321-cedb-afe0-def12345169",
+        "title": "Ecosoft",
+        "for": "Фильтры",
+        "urlUniqueKey": "ecosoft",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "21b09876-5432-10ed-cafe-badc0ffe169": {
+        "uid": "21b09876-5432-10ed-cafe-badc0ffe169",
+        "title": "Atoll",
+        "for": "Фильтры",
+        "urlUniqueKey": "atoll",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "3210fedc-bade-0123-4567-890abcdef169": {
+        "uid": "3210fedc-bade-0123-4567-890abcdef169",
+        "title": "Барьер",
+        "for": "Фильтры",
+        "urlUniqueKey": "barrier",
+        "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6164": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6164",
+        "title": "Makita",
+        "for": "Электродрель",
+        "urlUniqueKey": "makita",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c164": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c164",
+        "title": "Bosch",
+        "for": "Электродрель",
+        "urlUniqueKey": "bosch",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc164": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc164",
+        "title": "Metabo",
+        "for": "Электродрель",
+        "urlUniqueKey": "metabo",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184160": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184160",
+        "title": "Hitachi",
+        "for": "Перфоратор",
+        "urlUniqueKey": "hitachi",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6164": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6164",
+        "title": "DeWalt",
+        "for": "Перфоратор",
+        "urlUniqueKey": "dewalt",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-23874227164": {
+        "uid": "30f9d1cb-15ae-45db-beac-23874227164",
+        "title": "Sparky",
+        "for": "Перфоратор",
+        "urlUniqueKey": "sparky",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e601680164": {
+        "uid": "489272ab-f6dc-4142-98ff-6e601680164",
+        "title": "Stanley",
+        "for": "Ключи разводные",
+        "urlUniqueKey": "stanley",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184164": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184164",
+        "title": "Bahco",
+        "for": "Ключи разводные",
+        "urlUniqueKey": "bahco",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc165": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc165",
+        "title": "Intertool",
+        "for": "Ключи разводные",
+        "urlUniqueKey": "intertool",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e0164": {
+        "uid": "036e4666-b815-4814-abdd-641819e0164",
+        "title": "Matrix",
+        "for": "Наборы гаечных ключей и отверток",
+        "urlUniqueKey": "matrix",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a164": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a164",
+        "title": "Topex",
+        "for": "Наборы гаечных ключей и отверток",
+        "urlUniqueKey": "topex",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a31164": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a31164",
+        "title": "Jonnesway",
+        "for": "Наборы гаечных ключей и отверток",
+        "urlUniqueKey": "jonnesway",
+        "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6412": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6412",
+        "title": "Liqui Moly",
+        "for": "Масла моторные",
+        "urlUniqueKey": "liqui-moly",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c412": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c412",
+        "title": "Castrol",
+        "for": "Масла моторные",
+        "urlUniqueKey": "castrol",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc413": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc413",
+        "title": "Shell",
+        "for": "Масла моторные",
+        "urlUniqueKey": "shell",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184413": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184413",
+        "title": "Proffi",
+        "for": "Салфетки",
+        "urlUniqueKey": "proffi",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6412": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6412",
+        "title": "Unger",
+        "for": "Салфетки",
+        "urlUniqueKey": "unger",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-23874227412": {
+        "uid": "30f9d1cb-15ae-45db-beac-23874227412",
+        "title": "Tork",
+        "for": "Салфетки",
+        "urlUniqueKey": "tork",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e601680412": {
+        "uid": "489272ab-f6dc-4142-98ff-6e601680412",
+        "title": "Domoland",
+        "for": "Тряпки",
+        "urlUniqueKey": "domoland",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184412": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184412",
+        "title": "Green Clean",
+        "for": "Тряпки",
+        "urlUniqueKey": "green-clean",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc412": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc412",
+        "title": "CleanFix",
+        "for": "Тряпки",
+        "urlUniqueKey": "cleafix",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e0412": {
+        "uid": "036e4666-b815-4814-abdd-641819e0412",
+        "title": "Sonax",
+        "for": "Полироли",
+        "urlUniqueKey": "sonax",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a412": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a412",
+        "title": "Meguiars",
+        "for": "Полироли",
+        "urlUniqueKey": "meguiars",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a31412": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a31412",
+        "title": "Turtle Wax",
+        "for": "Полироли",
+        "urlUniqueKey": "turtle-wax",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "8d7263ea-54cf-19bd-3ace-fedcba98412": {
+        "uid": "8d7263ea-54cf-19bd-3ace-fedcba98412",
+        "title": "Hi-Gear",
+        "for": "Омывающая жидкость",
+        "urlUniqueKey": "hi-gear",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "9e8374fb-65df-20ce-49ab-cdef0123412": {
+        "uid": "9e8374fb-65df-20ce-49ab-cdef0123412",
+        "title": "Sintec",
+        "for": "Омывающая жидкость",
+        "urlUniqueKey": "sintec",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "0f987654-edcb-3210-fede-cbad9876412": {
+        "uid": "0f987654-edcb-3210-fede-cbad9876412",
+        "title": "SONAX Glass Protect",
+        "for": "Омывающая жидкость",
+        "urlUniqueKey": "sonax-glass-protect",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "10a98765-4321-cedb-afe0-def12345412": {
+        "uid": "10a98765-4321-cedb-afe0-def12345412",
+        "title": "Autoprofi",
+        "for": "Антигравий",
+        "urlUniqueKey": "autoprofi",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "21b09876-5432-10ed-cafe-badc0ffe412": {
+        "uid": "21b09876-5432-10ed-cafe-badc0ffe412",
+        "title": "Turtle Wax Gravel Guard",
+        "for": "Антигравий",
+        "urlUniqueKey": "turtle-wax-gravel-guard",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "3210fedc-bade-0123-4567-890abcdef412": {
+        "uid": "3210fedc-bade-0123-4567-890abcdef412",
+        "title": "Abro Armor Coating",
+        "for": "Антигравий",
+        "urlUniqueKey": "abro-armor-coating",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "43210fed-cba9-8765-4321-01234567412": {
+        "uid": "43210fed-cba9-8765-4321-01234567412",
+        "title": "Liqui Moly Additiv",
+        "for": "Присадки",
+        "urlUniqueKey": "liqui-moly-additiv",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "8d7263ea-54cf-19bd-3ace-fedcba987654"
+        ]
+    },
+    "543210fe-dcba-9876-5432-10fedcba412": {
+        "uid": "543210fe-dcba-9876-5432-10fedcba412",
+        "title": "Wynn’s",
+        "for": "Присадки",
+        "urlUniqueKey": "wynns",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "8d7263ea-54cf-19bd-3ace-fedcba987654"
+        ]
+    },
+    "6543210f-edcb-a987-6543-210fedcba412": {
+        "uid": "6543210f-edcb-a987-6543-210fedcba412",
+        "title": "Felix",
+        "for": "Присадки",
+        "urlUniqueKey": "felix",
+        "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+        "subcategoryListId": [
+            "8d7263ea-54cf-19bd-3ace-fedcba987654"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6531": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6531",
+        "title": "Агроцентр",
+        "for": "Семена растений",
+        "urlUniqueKey": "agrocentr",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c531": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c531",
+        "title": "Русский огород",
+        "for": "Семена растений",
+        "urlUniqueKey": "russkij-ogorod",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc535": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc535",
+        "title": "Семко-Юниор",
+        "for": "Семена растений",
+        "urlUniqueKey": "semko-junior",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184536": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184536",
+        "title": "Питомник Рай",
+        "for": "Саженцы деревьев",
+        "urlUniqueKey": "pitomnik-ray",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6531": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6531",
+        "title": "Сады России",
+        "for": "Саженцы деревьев",
+        "urlUniqueKey": "sady-rossii",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-23874227531": {
+        "uid": "30f9d1cb-15ae-45db-beac-23874227531",
+        "title": "Дар природы",
+        "for": "Саженцы деревьев",
+        "urlUniqueKey": "dar-prirody",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e601680531": {
+        "uid": "489272ab-f6dc-4142-98ff-6e601680531",
+        "title": "Фертика",
+        "for": "Удобрения",
+        "urlUniqueKey": "fertika",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a184531": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a184531",
+        "title": "Гумат",
+        "for": "Удобрения",
+        "urlUniqueKey": "humat",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc531": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc531",
+        "title": "Байкал-ЭМ",
+        "for": "Удобрения",
+        "urlUniqueKey": "baykal-em",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e0531": {
+        "uid": "036e4666-b815-4814-abdd-641819e0531",
+        "title": "Al-Ko",
+        "for": "Газонокосилки",
+        "urlUniqueKey": "al-ko",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a531": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a531",
+        "title": "Husqvarna",
+        "for": "Газонокосилки",
+        "urlUniqueKey": "husqvarna",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a31531": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a31531",
+        "title": "MTD",
+        "for": "Газонокосилки",
+        "urlUniqueKey": "mtd",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "7c6113a8-62d4-4022-b345-ce182a315917"
+        ]
+    },
+    "8d7263ea-54cf-19bd-3ace-fedcba98531": {
+        "uid": "8d7263ea-54cf-19bd-3ace-fedcba98531",
+        "title": "Black+Decker",
+        "for": "Триммеры",
+        "urlUniqueKey": "black-decker",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "8d7263ea-54cf-19bd-3ace-fedcba987654"
+        ]
+    },
+    "9e8374fb-65df-20ce-49ab-cdef0123531": {
+        "uid": "9e8374fb-65df-20ce-49ab-cdef0123531",
+        "title": "Partner",
+        "for": "Триммеры",
+        "urlUniqueKey": "partner",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "8d7263ea-54cf-19bd-3ace-fedcba987654"
+        ]
+    },
+    "0f987654-edcb-3210-fede-cbad9876531": {
+        "uid": "0f987654-edcb-3210-fede-cbad9876531",
+        "title": "STIHL",
+        "for": "Триммеры",
+        "urlUniqueKey": "stihl",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "8d7263ea-54cf-19bd-3ace-fedcba987654"
+        ]
+    },
+    "10a98765-4321-cedb-afe0-def12345531": {
+        "uid": "10a98765-4321-cedb-afe0-def12345531",
+        "title": "KEJA",
+        "for": "Мебель",
+        "urlUniqueKey": "keja",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "9e8374fb-65df-20ce-49ab-cdef01234567"
+        ]
+    },
+    "21b09876-5432-10ed-cafe-badc0ffe531": {
+        "uid": "21b09876-5432-10ed-cafe-badc0ffe531",
+        "title": "Хофф",
+        "for": "Мебель",
+        "urlUniqueKey": "hoff",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "9e8374fb-65df-20ce-49ab-cdef01234567"
+        ]
+    },
+    "3210fedc-bade-0123-4567-890abcdef531": {
+        "uid": "3210fedc-bade-0123-4567-890abcdef531",
+        "title": "Триумф",
+        "for": "Мебель",
+        "urlUniqueKey": "triumf",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "9e8374fb-65df-20ce-49ab-cdef01234567"
+        ]
+    },
+    "43210fed-cba9-8765-4321-01234567531": {
+        "uid": "43210fed-cba9-8765-4321-01234567531",
+        "title": "Лента",
+        "for": "Посуда",
+        "urlUniqueKey": "lenta",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "0f987654-edcb-3210-fede-cbad98765432"
+        ]
+    },
+    "543210fe-dcba-9876-5432-10fedcba531": {
+        "uid": "543210fe-dcba-9876-5432-10fedcba531",
+        "title": "Moneta",
+        "for": "Посуда",
+        "urlUniqueKey": "moneta",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "0f987654-edcb-3210-fede-cbad98765432"
+        ]
+    },
+    "6543210f-edcb-a987-6543-210fedcba531": {
+        "uid": "6543210f-edcb-a987-6543-210fedcba531",
+        "title": "Luminarc",
+        "for": "Посуда",
+        "urlUniqueKey": "luminarc",
+        "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+        "subcategoryListId": [
+            "0f987654-edcb-3210-fede-cbad98765432"
+        ]
+    },
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b67ae": {
+        "uid": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b67ae",
+        "title": "Persil",
+        "for": "Порошки стиральные",
+        "urlUniqueKey": "persil",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c7ae": {
+        "uid": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c7ae",
+        "title": "Tide",
+        "for": "Порошки стиральные",
+        "urlUniqueKey": "tide",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc7a2": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc7a2",
+        "title": "BioMio",
+        "for": "Порошки стиральные",
+        "urlUniqueKey": "biomio",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "30f9d1cb-15ae-45db-beac-238742278dca"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a1847a2": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a1847a2",
+        "title": "Lenor",
+        "for": "Ополаскиватели",
+        "urlUniqueKey": "lenor",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b67ae": {
+        "uid": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b67ae",
+        "title": "Vernel",
+        "for": "Ополаскиватели",
+        "urlUniqueKey": "vernel",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "30f9d1cb-15ae-45db-beac-238742277ae": {
+        "uid": "30f9d1cb-15ae-45db-beac-238742277ae",
+        "title": "Soft&Fresh",
+        "for": "Ополаскиватели",
+        "urlUniqueKey": "soft-and-fresh",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "489272ab-f6dc-4142-98ff-6e6016802cfe"
+        ]
+    },
+    "489272ab-f6dc-4142-98ff-6e6016807ae": {
+        "uid": "489272ab-f6dc-4142-98ff-6e6016807ae",
+        "title": "Dove",
+        "for": "Мыло",
+        "urlUniqueKey": "dove",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "f29b8152-deeb-40a2-af66-4e48a1847ae": {
+        "uid": "f29b8152-deeb-40a2-af66-4e48a1847ae",
+        "title": "Olay",
+        "for": "Мыло",
+        "urlUniqueKey": "olay",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedc7ae": {
+        "uid": "7a2b3c4d-5e6f-4789-9012-abcdeffedc7ae",
+        "title": "Dettol",
+        "for": "Мыло",
+        "urlUniqueKey": "dettol",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "f29b8152-deeb-40a2-af66-4e48a184e341"
+        ]
+    },
+    "036e4666-b815-4814-abdd-641819e07ae": {
+        "uid": "036e4666-b815-4814-abdd-641819e07ae",
+        "title": "Nivea",
+        "for": "Кремы",
+        "urlUniqueKey": "nivea",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "658403fd-6458-4a67-8a64-5e87126a7ae": {
+        "uid": "658403fd-6458-4a67-8a64-5e87126a7ae",
+        "title": "Johnson's Baby",
+        "for": "Кремы",
+        "urlUniqueKey": "johnsons-baby",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "7c6113a8-62d4-4022-b345-ce182a317ae": {
+        "uid": "7c6113a8-62d4-4022-b345-ce182a317ae",
+        "title": "Lancôme",
+        "for": "Кремы",
+        "urlUniqueKey": "lancome",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "036e4666-b815-4814-abdd-641819e048fa"
+        ]
+    },
+    "8d7263ea-54cf-19bd-3ace-fedcba987ae": {
+        "uid": "8d7263ea-54cf-19bd-3ace-fedcba987ae",
+        "title": "Vanish",
+        "for": "Пятновыводители",
+        "urlUniqueKey": "vanish",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "9e8374fb-65df-20ce-49ab-cdef01237ae": {
+        "uid": "9e8374fb-65df-20ce-49ab-cdef01237ae",
+        "title": "Amway",
+        "for": "Пятновыводители",
+        "urlUniqueKey": "amway",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    },
+    "0f987654-edcb-3210-fede-cbad98767ae": {
+        "uid": "0f987654-edcb-3210-fede-cbad98767ae",
+        "title": "Fairy Active",
+        "for": "Пятновыводители",
+        "urlUniqueKey": "fairy-active",
+        "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+        "subcategoryListId": [
+            "658403fd-6458-4a67-8a64-5e87126a4312"
+        ]
+    }
+}

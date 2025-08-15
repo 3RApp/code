@@ -1,0 +1,16 @@
+.subcategory-page {
+    display: flex;
+    gap: 12px;
+}
+
+.subcategory-page__toolbar {
+    display: flex;
+    gap: 12px;
+}
+
+.subcategory-page__view-mode {
+    display: flex;
+    align-items: center;
+    border-left: 1px solid black;
+    padding-left: 12px;
+}

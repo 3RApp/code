@@ -1,0 +1,634 @@
+{
+    "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74": [
+        {
+            "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Холодильники",
+            "urlUniqueKey": "holodilniki",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedcba"
+            ]
+        },
+        {
+            "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Микроволновые печи",
+            "urlUniqueKey": "mikrovolnovye-pechi",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184e341",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+                "30f9d1cb-15ae-45db-beac-238742278dca"
+            ]
+        },
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Электроплиты",
+            "urlUniqueKey": "elektroplity",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e6016802cfe",
+                "1c3b4d5e-6f7a-8b9c-dae1-2f34567890bc",
+                "5a7b9cde-1f3a-4b6c-8d9e-0123456789ab"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Духовые шкафы",
+            "urlUniqueKey": "duhovye-shkafi",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e048fa",
+                "658403fd-6458-4a67-8a64-5e87126a4312",
+                "7c6113a8-62d4-4022-b345-ce182a315917"
+            ]
+        },
+        {
+            "uid": "658403fd-6458-4a67-8a64-5e87126a4312",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Блендеры",
+            "urlUniqueKey": "blendery",
+            "vendorListId": [
+                "8d7263ea-54cf-19bd-3ace-fedcba987654",
+                "9e8374fb-65df-20ce-49ab-cdef01234567"
+            ]
+        },
+        {
+            "uid": "7c6113a8-62d4-4022-b345-ce182a315917",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Миксеры",
+            "urlUniqueKey": "mixery",
+            "vendorListId": [
+                "0f987654-edcb-3210-fede-cbad98765432",
+                "10a98765-4321-cedb-afe0-def123456789"
+            ]
+        },
+        {
+            "uid": "e0444241-7c73-4752-84b6-1e7329980163",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Кофемашины",
+            "urlUniqueKey": "kofemashiny",
+            "vendorListId": [
+                "21b09876-5432-10ed-cafe-badc0ffe1234",
+                "3210fedc-bade-0123-4567-890abcdef012",
+                "43210fed-cba9-8765-4321-0123456789ab"
+            ]
+        },
+        {
+            "uid": "254146aa-1593-48a6-ac57-0a7a5e1306b1",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Комбайны",
+            "urlUniqueKey": "kombainy",
+            "vendorListId": [
+                "543210fe-dcba-9876-5432-10fedcba9876",
+                "6543210f-edcb-a987-6543-210fedcba987",
+                "76543210-fedc-ba98-7654-3210fedcba98"
+            ]
+        },
+        {
+            "uid": "541101cd-3e77-4a79-adbe-1448792a64df",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Посудомоечные машины",
+            "urlUniqueKey": "posudomoechnye-mashiny",
+            "vendorListId": [
+                "87654321-0fed-cba9-8765-43210fedcba9",
+                "98765432-10fe-dcba-9876-543210fedcba",
+                "09876543-210f-edcb-a987-6543210fedcb"
+            ]
+        },
+        {
+            "uid": "92646683-6b61-4093-b292-113381768b64",
+            "categoryId": "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e74",
+            "title": "Мясорубки",
+            "urlUniqueKey": "myasorubki",
+            "vendorListId": [
+                "10987654-3210-fedc-ba98-76543210fedc",
+                "21098765-4321-0fed-cba9-876543210fed",
+                "32109876-5432-10fe-dcba-9876543210fe"
+            ]
+        }
+    ],
+    "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5": [
+        {
+            "uid": "7a2b3c4d-5e6f-7g8h-9i0j-klmnopqrstuv",
+            "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+            "title": "Брюки",
+            "urlUniqueKey": "bruki",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e133",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e33",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc33"
+            ]
+        },
+        {
+            "uid": "8b9c0d1e-2f3g-4h5i-6j7k-lmnopqrstuvw",
+            "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+            "title": "Футболки с мерчем",
+            "urlUniqueKey": "futbolki-s-merchem",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184e333",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e133",
+                "30f9d1cb-15ae-45db-beac-238742278d33"
+            ]
+        },
+        {
+            "uid": "9c0d1e2f-3g4h-5i6j-7k8l-mnopqrstuvwx",
+            "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+            "title": "Ветровки",
+            "urlUniqueKey": "vetrovki",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e6016802c33",
+                "f29b8152-deeb-40a2-af66-4e48a1843333",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffed333"
+            ]
+        },
+        {
+            "uid": "0d1e2f3g-4h5i-6j7k-8l9m-nopqrstuvwxy",
+            "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+            "title": "Блузы",
+            "urlUniqueKey": "bluzy",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e04333",
+                "658403fd-6458-4a67-8a64-5e87126a4333",
+                "7c6113a8-62d4-4022-b345-ce182a315933"
+            ]
+        },
+        {
+            "uid": "1e2f3g4h-5i6j-7k8l-9m0n-opqrstuvwyz",
+            "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+            "title": "Мини-юбка",
+            "urlUniqueKey": "mini-yubka",
+            "vendorListId": [
+                "8d7263ea-54cf-19bd-3ace-fedcba987633",
+                "9e8374fb-65df-20ce-49ab-cdef01234533",
+                "0f987654-edcb-3210-fede-cbad98765433"
+            ]
+        },
+        {
+            "uid": "2f3g4h5i-6j7k-8l9m-0n1o-pqrstuvwzyx",
+            "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+            "title": "Ботинки",
+            "urlUniqueKey": "botinki",
+            "vendorListId": [
+                "10a98765-4321-cedb-afe0-def123456733",
+                "21b09876-5432-10ed-cafe-badc0ffe1233",
+                "3210fedc-bade-0123-4567-890abcdef033"
+            ]
+        },
+        {
+            "uid": "3g4h5i6j-7k8l-9m0n-1o2p-qrstuvwxyzxw",
+            "categoryId": "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e1d5",
+            "title": "Туфли",
+            "urlUniqueKey": "tufli",
+            "vendorListId": [
+                "43210fed-cba9-8765-4321-012345678933",
+                "543210fe-dcba-9876-5432-10fedcba9833",
+                "6543210f-edcb-a987-6543-210fedcba933"
+            ]
+        }
+    ],
+    "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5": [
+        {
+            "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+            "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+            "title": "Фэнтези",
+            "urlUniqueKey": "fentezi",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6e144",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c6e44",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc44"
+            ]
+        },
+        {
+            "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+            "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+            "title": "Научная фантастика",
+            "urlUniqueKey": "nauchno-fantastika",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184e344",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e144",
+                "30f9d1cb-15ae-45db-beac-238742278d44"
+            ]
+        },
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+            "title": "Приключения",
+            "urlUniqueKey": "priklyucheniya",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e6016802c44",
+                "f29b8152-deeb-40a2-af66-4e48a184e345",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc45"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+            "title": "Исторический роман",
+            "urlUniqueKey": "istoricheskiy-roman",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e04845",
+                "658403fd-6458-4a67-8a64-5e87126a4345",
+                "7c6113a8-62d4-4022-b345-ce182a315945"
+            ]
+        },
+        {
+            "uid": "658403fd-6458-4a67-8a64-5e87126a4312",
+            "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+            "title": "IT",
+            "urlUniqueKey": "it",
+            "vendorListId": [
+                "8d7263ea-54cf-19bd-3ace-fedcba987644",
+                "9e8374fb-65df-20ce-49ab-cdef01234544",
+                "0f987654-edcb-3210-fede-cbad98765444"
+            ]
+        },
+        {
+            "uid": "7c6113a8-62d4-4022-b345-ce182a315917",
+            "categoryId": "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6e1d5",
+            "title": "Путешествия",
+            "urlUniqueKey": "puteshestviya",
+            "vendorListId": [
+                "10a98765-4321-cedb-afe0-def123456744",
+                "21b09876-5432-10ed-cafe-badc0ffe1244",
+                "3210fedc-bade-0123-4567-890abcdef044"
+            ]
+        }
+    ],
+    "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5": [
+        {
+            "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+            "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+            "title": "Смартфоны",
+            "urlUniqueKey": "smartfony",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6167",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c167",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffe168"
+            ]
+        },
+        {
+            "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+            "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+            "title": "Зарядные устройства",
+            "urlUniqueKey": "zarjadnye-ustroystva",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184168",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6167",
+                "30f9d1cb-15ae-45db-beac-23874227167"
+            ]
+        },
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+            "title": "Телевизоры",
+            "urlUniqueKey": "televizory",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e601680167",
+                "f29b8152-deeb-40a2-af66-4e48a184167",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffe167"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "e4f5c8a8-d1e5-a4c5-b6a3-f9c8a8b6e1d5",
+            "title": "Цифровые фотоаппараты",
+            "urlUniqueKey": "tsifrovye-fotoapparaty",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e0167",
+                "658403fd-6458-4a67-8a64-5e87126a167",
+                "7c6113a8-62d4-4022-b345-ce182a31167"
+            ]
+        }
+    ],
+    "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5": [
+        {
+            "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+            "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+            "title": "Унитазы",
+            "urlUniqueKey": "unitazy",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6169",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c169",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc169"
+            ]
+        },
+        {
+            "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+            "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+            "title": "Ванны",
+            "urlUniqueKey": "vanny",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184169",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6169",
+                "30f9d1cb-15ae-45db-beac-23874227169"
+            ]
+        },
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+            "title": "Раковины",
+            "urlUniqueKey": "rakoviny",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e601680169",
+                "f29b8152-deeb-40a2-af66-4e48a184169",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc169"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+            "title": "Смесители",
+            "urlUniqueKey": "smestiteli",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e0169",
+                "658403fd-6458-4a67-8a64-5e87126a169",
+                "7c6113a8-62d4-4022-b345-ce182a31169"
+            ]
+        },
+        {
+            "uid": "658403fd-6458-4a67-8a64-5e87126a4312",
+            "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+            "title": "Сауны",
+            "urlUniqueKey": "sauny",
+            "vendorListId": [
+                "8d7263ea-54cf-19bd-3ace-fedcba98169",
+                "9e8374fb-65df-20ce-49ab-cdef0123169",
+                "0f987654-edcb-3210-fede-cbad9876169"
+            ]
+        },
+        {
+            "uid": "7c6113a8-62d4-4022-b345-ce182a315917",
+            "categoryId": "a4c5b6a3-e4f5-c8a8-d1e5-f9c8a8b6e1d5",
+            "title": "Фильтры",
+            "urlUniqueKey": "filtry",
+            "vendorListId": [
+                "10a98765-4321-cedb-afe0-def12345169",
+                "21b09876-5432-10ed-cafe-badc0ffe169",
+                "3210fedc-bade-0123-4567-890abcdef169"
+            ]
+        }
+    ],
+    "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5": [
+        {
+            "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+            "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+            "title": "Электродрель",
+            "urlUniqueKey": "elektrodrel",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6164",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c164",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc164"
+            ]
+        },
+        {
+            "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+            "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+            "title": "Перфоратор",
+            "urlUniqueKey": "perforator",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184160",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6164",
+                "30f9d1cb-15ae-45db-beac-23874227164"
+            ]
+        },
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+            "title": "Ключи разводные",
+            "urlUniqueKey": "kluchi-razvodnye",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e601680164",
+                "f29b8152-deeb-40a2-af66-4e48a184164",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc165"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "c8a8d1e5-a4c5-b6a3-e4f5-f9c8a8b6e1d5",
+            "title": "Наборы гаечных ключей и отверток",
+            "urlUniqueKey": "nabory-gaechek-i-otvertok",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e0164",
+                "658403fd-6458-4a67-8a64-5e87126a164",
+                "7c6113a8-62d4-4022-b345-ce182a31164"
+            ]
+        }
+    ],
+    "4736901a-2bfd-4c32-9e1b-6295a8fc7deb": [
+        {
+            "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+            "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+            "title": "Масла моторные",
+            "urlUniqueKey": "masla-motornye",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6412",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c412",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc413"
+            ]
+        },
+        {
+            "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+            "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+            "title": "Салфетки",
+            "urlUniqueKey": "salftetki",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184413",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6412",
+                "30f9d1cb-15ae-45db-beac-23874227412"
+            ]
+        },
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+            "title": "Тряпки",
+            "urlUniqueKey": "trypki",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e601680412",
+                "f29b8152-deeb-40a2-af66-4e48a184412",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc412"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+            "title": "Полироли",
+            "urlUniqueKey": "poliroli",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e0412",
+                "658403fd-6458-4a67-8a64-5e87126a412",
+                "7c6113a8-62d4-4022-b345-ce182a31412"
+            ]
+        },
+        {
+            "uid": "658403fd-6458-4a67-8a64-5e87126a4312",
+            "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+            "title": "Омывающая жидкость",
+            "urlUniqueKey": "omyvayushchaya-zhidkost",
+            "vendorListId": [
+                "8d7263ea-54cf-19bd-3ace-fedcba98412",
+                "9e8374fb-65df-20ce-49ab-cdef0123412",
+                "0f987654-edcb-3210-fede-cbad9876412"
+            ]
+        },
+        {
+            "uid": "7c6113a8-62d4-4022-b345-ce182a315917",
+            "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+            "title": "Антигравий",
+            "urlUniqueKey": "antigraviy",
+            "vendorListId": [
+                "10a98765-4321-cedb-afe0-def12345412",
+                "21b09876-5432-10ed-cafe-badc0ffe412",
+                "3210fedc-bade-0123-4567-890abcdef412"
+            ]
+        },
+        {
+            "uid": "8d7263ea-54cf-19bd-3ace-fedcba987654",
+            "categoryId": "4736901a-2bfd-4c32-9e1b-6295a8fc7deb",
+            "title": "Присадки",
+            "urlUniqueKey": "prisadki",
+            "vendorListId": [
+                "43210fed-cba9-8765-4321-01234567412",
+                "543210fe-dcba-9876-5432-10fedcba412",
+                "6543210f-edcb-a987-6543-210fedcba412"
+            ]
+        }
+    ],
+    "7a2b3c4d-5e6f-4789-9012-abcdeffedcba": [
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+            "title": "Семена растений",
+            "urlUniqueKey": "semena-rastenii",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b6531",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c531",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc535"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+            "title": "Саженцы деревьев",
+            "urlUniqueKey": "sazhensty-derevev",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a184536",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b6531",
+                "30f9d1cb-15ae-45db-beac-23874227531"
+            ]
+        },
+        {
+            "uid": "658403fd-6458-4a67-8a64-5e87126a4312",
+            "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+            "title": "Удобрения",
+            "urlUniqueKey": "udebrenia",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e601680531",
+                "f29b8152-deeb-40a2-af66-4e48a184531",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc531"
+            ]
+        },
+        {
+            "uid": "7c6113a8-62d4-4022-b345-ce182a315917",
+            "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+            "title": "Газонокосилки",
+            "urlUniqueKey": "gazonokosilki",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e0531",
+                "658403fd-6458-4a67-8a64-5e87126a531",
+                "7c6113a8-62d4-4022-b345-ce182a31531"
+            ]
+        },
+        {
+            "uid": "8d7263ea-54cf-19bd-3ace-fedcba987654",
+            "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+            "title": "Триммеры",
+            "urlUniqueKey": "trimmery",
+            "vendorListId": [
+                "8d7263ea-54cf-19bd-3ace-fedcba98531",
+                "9e8374fb-65df-20ce-49ab-cdef0123531",
+                "0f987654-edcb-3210-fede-cbad9876531"
+            ]
+        },
+        {
+            "uid": "9e8374fb-65df-20ce-49ab-cdef01234567",
+            "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+            "title": "Мебель",
+            "urlUniqueKey": "mebel",
+            "vendorListId": [
+                "10a98765-4321-cedb-afe0-def12345531",
+                "21b09876-5432-10ed-cafe-badc0ffe531",
+                "3210fedc-bade-0123-4567-890abcdef531"
+            ]
+        },
+        {
+            "uid": "0f987654-edcb-3210-fede-cbad98765432",
+            "categoryId": "7a2b3c4d-5e6f-4789-9012-abcdeffedcba",
+            "title": "Посуда",
+            "urlUniqueKey": "posuda",
+            "vendorListId": [
+                "43210fed-cba9-8765-4321-01234567531",
+                "543210fe-dcba-9876-5432-10fedcba531",
+                "6543210f-edcb-a987-6543-210fedcba531"
+            ]
+        }
+    ],
+    "f29b8152-deeb-40a2-af66-4e48a184e341": [
+        {
+            "uid": "30f9d1cb-15ae-45db-beac-238742278dca",
+            "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "title": "Порошки стиральные",
+            "urlUniqueKey": "poroshki-stiralnye",
+            "vendorListId": [
+                "b6a3e4f5-c8a8-d1e5-a4c5-f9c8a8b67ae",
+                "f9c8a8b6-e1d5-4c5a-8b4e-6a3e4f5c7ae",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc7a2"
+            ]
+        },
+        {
+            "uid": "489272ab-f6dc-4142-98ff-6e6016802cfe",
+            "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "title": "Ополаскиватели",
+            "urlUniqueKey": "opolaskivateli",
+            "vendorListId": [
+                "f29b8152-deeb-40a2-af66-4e48a1847a2",
+                "d1e5a4c5-b6a3-e4f5-c8a8-f9c8a8b67ae",
+                "30f9d1cb-15ae-45db-beac-238742277ae"
+            ]
+        },
+        {
+            "uid": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "title": "Мыло",
+            "urlUniqueKey": "mylo",
+            "vendorListId": [
+                "489272ab-f6dc-4142-98ff-6e6016807ae",
+                "f29b8152-deeb-40a2-af66-4e48a1847ae",
+                "7a2b3c4d-5e6f-4789-9012-abcdeffedc7ae"
+            ]
+        },
+        {
+            "uid": "036e4666-b815-4814-abdd-641819e048fa",
+            "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "title": "Кремы",
+            "urlUniqueKey": "kremy",
+            "vendorListId": [
+                "036e4666-b815-4814-abdd-641819e07ae",
+                "658403fd-6458-4a67-8a64-5e87126a7ae",
+                "7c6113a8-62d4-4022-b345-ce182a317ae"
+            ]
+        },
+        {
+            "uid": "658403fd-6458-4a67-8a64-5e87126a4312",
+            "categoryId": "f29b8152-deeb-40a2-af66-4e48a184e341",
+            "title": "Пятновыводители",
+            "urlUniqueKey": "pyatnovyvoditeli",
+            "vendorListId": [
+                "8d7263ea-54cf-19bd-3ace-fedcba987ae",
+                "9e8374fb-65df-20ce-49ab-cdef01237ae",
+                "0f987654-edcb-3210-fede-cbad98767ae"
+            ]
+        }
+    ]
+}

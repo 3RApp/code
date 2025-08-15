@@ -1,0 +1,15 @@
+.basket-page {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.basket-page__total-basket {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    flex-direction: column;
+    gap: 12px;
+    margin-right: 24px;
+}

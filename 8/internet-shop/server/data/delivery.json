@@ -1,0 +1,11 @@
+[{
+    "uid": "f7c6a2d9-f3ba-4c18-b9ed-c267301a8fdb",
+    "title": "Самовывоз",
+    "price": 0,
+    "currencyCode": "RUB"
+}, {
+    "uid": "e1b530fc-d95e-47cd-ad87-eb3ae55bb9cc",
+    "title": "Курьер",
+    "price": 256,
+    "currencyCode": "RUB"
+}]

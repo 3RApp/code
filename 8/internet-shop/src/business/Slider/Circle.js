@@ -1,0 +1,1 @@
+export const Circle = ({ className, onClick }) => (<span className={className} onClick={onClick} />);

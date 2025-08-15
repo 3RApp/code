@@ -1,0 +1,30 @@
+.product-list {
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.product-list__rect {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 80%;
+}
+
+.product-list__square {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+    width: 100%;
+    align-items: stretch; /* Выравниваем высоту строк */
+    gap: 1rem; /* Интервал между элементами */
+    flex-wrap: wrap;
+}
+
+.product-list__pagination {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin: 24px 0;
+}

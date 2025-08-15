@@ -1,0 +1,16 @@
+.delivery-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.delivery-service {
+    display: flex;
+    align-items: baseline;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.delivery-service-control {
+    width: 250px;
+}
