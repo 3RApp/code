@@ -60,7 +60,6 @@ export const ProductBasket = ({ product }) => {
           <div className={cx('product-basket__description__price')}>
             <span>Цена:</span><Price value={price} code={currencyCode} size="lg" />
           </div>
-          <Link to={`/catalog/${categoryId}/${subcategoryId}/${uid}`}>Перейти</Link>
         </div>
       </div>
       <div className={cx('product-basket__count')}>
