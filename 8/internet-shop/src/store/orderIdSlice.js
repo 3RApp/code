@@ -9,6 +9,7 @@ export const orderIdSlice = createSlice({
 
             return state;
         },
+        clearOrderId: () => null,
     }
 });
 

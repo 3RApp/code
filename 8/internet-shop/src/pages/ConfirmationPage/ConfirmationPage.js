@@ -5,7 +5,7 @@ import cn from "classnames/bind";
 import { Breadcrumbs, Header, Text } from "../../components"
 import { selectPhone, clearPhone } from "../../store/customerSlice";
 import { clearBasket } from "../../store/basketSlice";
-import { selectOrderId } from "../../store/orderIdSlice";
+import { selectOrderId, clearOrderId } from "../../store/orderIdSlice";
 import { getCurrentDate } from "../utils";
 import { breadcrumbs } from "./data";
 
@@ -23,6 +23,7 @@ export const ConfirmationPage = () => {
       const sendActionBeforeUnload = () => {
         dispatch(clearPhone());
         dispatch(clearBasket());
+        dispatch(clearOrderId());
       };
     return sendActionBeforeUnload;
   }, []);
