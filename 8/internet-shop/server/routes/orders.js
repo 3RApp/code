@@ -21,7 +21,7 @@ async function registerOrder(res, ordersDataPath){
         orders.lastOrder++;
 
         const orderId = v4();
-
+console.log('orders', orders);
         orders[orderId] = {
             orderNumber: orders.lastOrder
         };
@@ -74,12 +74,12 @@ async function getOrders(res, ordersDataPath) {
 
 router.post('/orders/create', function(req, res){
 
-    registerOrder(res, './data/orders_test.json');
+    registerOrder(res, './data/orders.json');
 });
 
 router.patch('/orders/create', function(req, res){
 
-    patchOrder(res, req.body, './data/orders_test.json');
+    patchOrder(res, req.body, './data/orders.json');
 });
 
 router.get('/orders', function(req, res){
