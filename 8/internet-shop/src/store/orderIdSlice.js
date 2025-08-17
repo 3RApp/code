@@ -13,7 +13,7 @@ export const orderIdSlice = createSlice({
     }
 });
 
-export const { addOrderId } = orderIdSlice.actions;
+export const { addOrderId, clearOrderId } = orderIdSlice.actions;
 
 export const selectOrderId = (state) => state.orderId;
 
