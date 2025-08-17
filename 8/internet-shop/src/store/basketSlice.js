@@ -46,10 +46,11 @@ const basket = createSlice({
                 state.products[id] = [state.products[id][0], count, state.products[id][2]];
             }
         },
+        clearBasket: () => initialState
     }
 });
 
-export const { addProduct, deleteProduct, changeCount } = basket.actions;
+export const { addProduct, deleteProduct, changeCount, clearBasket } = basket.actions;
 
 export const selectProducts = (state) => state.basket.products;
 export const selectTotal = (state) => state.basket.total;

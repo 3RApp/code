@@ -58,9 +58,6 @@ export const OrderFormPage = () => {
       fetch("/api/v1/orders/create", { method: "POST", }).then(response => response.json()).then(data => {
 
         if (data.success) {
-          console.log(
-            `Заказ №${data.data} успешно создан`
-          );
           dispatch(addOrderId(data.data));
           setOrderId(data.data);
         }
